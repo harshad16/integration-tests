@@ -1,0 +1,5 @@
+behave
+pyhamcrest
+requests
+thamos
+thoth-storages
